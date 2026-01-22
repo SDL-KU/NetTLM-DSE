@@ -34,6 +34,20 @@ cd NetTLM-DSE/GEMINI
 sh run_dse.sh
 
 ```
+## Acknowledgment
+
+The Design Space Exploration (DSE) framework of this project is based on [Gemini](https://github.com/SET-Scheduling-Project/GEMINI-HPCA2024) (HPCA '24) from Tsinghua University.
+
+```bibtex
+@inproceedings{cai2024gemini,
+  title={Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators},
+  author={Cai, Jingwei and Wu, Zuotong and Peng, Sen and Wei, Yuchen and Tan, Zhanhong and Shi, Guiming and Gao, Mingyu and Ma, Kaisheng},
+  booktitle={2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA)},
+  pages={156--171},
+  year={2024},
+  organization={IEEE}
+}
+```
 
 ## Contact
 
